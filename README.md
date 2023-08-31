@@ -3,7 +3,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chathurangakup&show_icons=true&theme=radical"/>
 
-<img  align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathurangakup&layout=compact"/>
+<img  align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathurangakup&layout=compact&theme=radical"/>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
