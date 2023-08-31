@@ -13,7 +13,7 @@
 - 📫 How to reach me **kupchaturanga@gmail.com**
 
 - <h2 align="left">📲 Connect With Me</h3>
-<a href="https://linkedin.com/in/devin-godage" target="_blank">
+<a href="https://www.linkedin.com/in/uditha-chathuranga-a23231163" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/chathurangakup" target="_blank">
