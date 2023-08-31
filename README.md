@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/10579214/uditha-chaturanga" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="[https://www.facebook.com/devin.godage](https://fb.com/https://web.facebook.com/uditha.chaturanga.79)" target="_blank">
+<a href="https://fb.com/https://web.facebook.com/uditha.chaturanga.79" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?color=2962FF&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
