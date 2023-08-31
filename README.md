@@ -1,9 +1,9 @@
 # Hi There I am Uditha ✌️
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=udithaChathuranga&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chathuranga&show_icons=true&theme=radical"/>
 
-<img  align="left"  width="47%" height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithaChathuranga&layout=compact&theme=radical"/>
+<img  align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuranga&layout=compact"/>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
